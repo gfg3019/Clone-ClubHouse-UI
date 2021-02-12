@@ -2,7 +2,7 @@
 
 
 ## Demostration
-<img scr="./assets/tela.png">
+![imagen da tela](https://github.com/gfg3019/Clone-ClubHouse-UI/blob/main/assets/tela.png)
 
 ## Techs
 * [] HTML
